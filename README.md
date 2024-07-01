@@ -1,1 +1,2 @@
-"Kevin Sabbe" 
+Kevin Sabbe
+sabbek@oregonstate.edu
